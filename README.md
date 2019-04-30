@@ -1,4 +1,4 @@
-##Bftools
+# Bftools
 
 This Repository contains a python module with many function for working with Brainfuck.
 
